@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'space:tracker-mobx-autorun',
-  version: '0.2.0',
+  name: 'malua:tracker-mobx-autorun',
+  version: '0.2.1',
   summary: 'Integrate Meteor reactive data with MobX using autorun functions',
-  git: 'https://github.com/meteor-space/tracker-mobx-autorun.git',
+  git: 'https://github.com/malua/tracker-mobx-autorun.git',
   documentation: 'README.md'
 });
 
